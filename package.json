@@ -1,0 +1,21 @@
+{
+  "name": "dom-upgrade",
+  "version": "1.0.2",
+  "description": "Updraded DOM style",
+  "main": "index.js",
+  "dependencies": {
+    "document": "^0.4.7",
+    "window": "^4.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dom-upgrade"
+  },
+  "author": "Jaipal",
+  "license": "ISC",
+  "private": false
+}
