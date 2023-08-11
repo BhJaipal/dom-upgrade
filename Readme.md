@@ -92,3 +92,5 @@ import { Alert, ErrorAlert,
 ```bash
 npm install dom-upgrade
 ```
+
+### [How to Use](https://github.com/BhJaipal/dom-upgrade/blob/1.3.3/doc/usage.md)
