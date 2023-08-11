@@ -17,5 +17,6 @@
   },
   "author": "Jaipal",
   "license": "ISC",
-  "private": false
+  "private": false,
+  "keywords": ["Alert", "ErrorAlert", "WarningAlert", "Prompt"]
 }
